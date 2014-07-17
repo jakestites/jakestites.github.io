@@ -1,0 +1,12 @@
+# Site settings
+title: Jake's Blog
+email: jmoneygen@gmail.com
+description: "The home of Jake's Awesome blog!"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jakestites
+github_username:  jakestites
+
+# Build settings
+markdown: kramdown
+permalink: pretty
